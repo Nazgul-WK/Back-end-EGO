@@ -11,3 +11,6 @@ class Calculator:
 
     def sub(self):
         return self.a * self.b
+
+    def diffl(self):
+        return self.a / self.b

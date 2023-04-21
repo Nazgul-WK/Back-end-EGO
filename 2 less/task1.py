@@ -8,3 +8,4 @@ if temperature > 0:
     print ("Сегодня " + str(day) + "." + str(month) + "."  + "2023. " + "На улице " + str(temperature) + " градуса.")
 else:
     print ("Сегодня " + str(day) + "." + str(month) + "."  + "2023. " + "На улице " + str(temperature) + " градуса. Холодно, лучше остаться дома.")
+
